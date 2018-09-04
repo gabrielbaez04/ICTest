@@ -175,6 +175,7 @@
 .pageHeader>.menu>p{
   margin: 0;
 }
+
 @media only screen and (max-width: 768px){
   .pageHeader{
     height: 50px;
@@ -204,7 +205,6 @@
     width: 25px;
   }
 }
-
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
