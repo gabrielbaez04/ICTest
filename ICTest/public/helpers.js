@@ -1,9 +1,10 @@
 window.helpers = (function () { 
-    function renderElapsedString(elapsed, runningSince) {
-      let totalElapsed = elapsed;
-      if (runningSince) {
-        totalElapsed = runningSince - Date.now()< 0 ? 0 : runningSince - Date.now();
+    function renderElapsedString(runningSince,remainingTime) {
+      totalElapsed = 0;
+      if(runningSince){
+        totalElapsed =  Date.now() - runningSince < 0 ? 0 :  Date.now() - runningSince;        
       }
+      totalElapsed = remainingTime-totalElapsed < 0 ? 0 : remainingTime-totalElapsed;
       return millisecondsToHuman(totalElapsed);
     }
   
@@ -27,9 +28,18 @@ window.helpers = (function () {
       return padded;
     }
   
+    function detectmob() {
+      if(window.innerWidth <= 800 && window.innerHeight <= 600) {
+        return true;
+      } else {
+        return false;
+      }
+   }
+
     return {
       millisecondsToHuman,
       renderElapsedString,
+      detectmob,
     };
   }());
   

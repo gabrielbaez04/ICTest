@@ -28,7 +28,7 @@ app.get('/api/auctions', (req, res) => {
   });
 });
 
-app.put('/api/auctions/timerStart', (req, res) => {
+app.post('/api/auctions/timerStart', (req, res) => {
   fs.readFile(DATA_FILE, (err, data) => {
     const auctions = JSON.parse(data);
     auctions.forEach((auction) => {
@@ -42,7 +42,7 @@ app.put('/api/auctions/timerStart', (req, res) => {
   });
 });
 
-app.put('/api/auctions/timerStop', (req, res) => {
+app.post('/api/auctions/timerStop', (req, res) => {
   fs.readFile(DATA_FILE, (err, data) => {
     const auctions = JSON.parse(data);
     auctions.forEach((auction) => {
@@ -55,7 +55,7 @@ app.put('/api/auctions/timerStop', (req, res) => {
     });
   });
 });
-
+//params id,dealership,chnner
 app.put('/api/auctions/bid', (req, res) => {
     fs.readFile(DATA_FILE, (err, data) => {
       const auctions = JSON.parse(data);
@@ -78,6 +78,8 @@ app.put('/api/auctions/bid', (req, res) => {
     });
   });
 
+
+app.use(express.static('public'))
 app.listen(app.get('port'), () => {
   console.log(`Find the server at: http://localhost:${app.get('port')}/`); // eslint-disable-line no-console
 });
