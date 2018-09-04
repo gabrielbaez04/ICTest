@@ -1,0 +1,211 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.auctionContainer{
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  padding: 15px 30px 15px 30px;
+  width: 90%;
+}
+.auctionList{
+  background-color: #ebebeb;
+  display: flex;
+  justify-content: center;
+}
+.bidButton{
+  background-color: #3eb871;
+  border-radius: 5px;
+  border:none;
+  color: #ffffff;
+  cursor: pointer;
+  height: 35px;
+  left: 2.5%;
+  margin: 10px;
+  width: 95%;
+}
+
+.card{
+  background: #ffffff;
+  border-radius: 5px;
+  margin: 10px;
+  max-width: 100%;
+  position: relative;
+  width: 350px;
+  -webkit-box-shadow: 0 1px 3px 0 #d4d4d5,0 0 0 1px #d4d4d5;
+  }
+.card>.image{
+  position: relative;
+}
+.card>.image>img {
+  border-radius: 5px 5px 0px 0px;
+  display: block;
+  width: 100%;
+  
+}
+.card>.image>.tag {
+  background-color: rgba(0,0,0,0.4);
+  bottom: 0px;
+  position:absolute;
+  text-align: center;
+  width: 100%;
+  z-index: 1000;
+}
+.card>.image>.tag>a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.caret{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+.content>.splitContainer{
+  display: flex;
+  position: relative;
+}
+.content>.splitContainer>.splitContainerData{
+  width: 50%;
+  float:left;
+  text-align: center;
+  padding: 0;
+}
+.content>.splitContainer>.splitContainerData>.bidHeader{
+  font-size: 0.5em;
+}
+
+.content>.splitContainer>.splitContainerData>.bidInfo{
+  font-size: 1.5em;
+  margin: 0px;
+  font-weight: bold;
+}
+
+.content>.splitContainer>.splitContainerData>.bidTimeInfo{
+  color: #ff6d4a;
+}
+
+.content>.splitContainer>.splitContainerData>.bidOfferInfo{
+  color: #3eb871;
+}
+
+.content>.carInfo{
+  text-align: center;
+  font-weight: bold;
+  color: #323232;
+  font-size: 0.8em;
+}
+.verticalDivider{
+  border-left: 2px solid #e4e4e4;
+  height: 30px;
+  position: absolute;
+  bottom: 7px;
+  left: 50%;  
+}
+
+.horizontalDivider{
+  border-top: 2px solid #e4e4e4;
+  width: 95%;
+  left: 2.5%;
+  position: absolute;
+}
+
+.header{
+  font-weight: 700;
+    font-size: 1.28571429em;
+    margin-top: -.21425em;
+    line-height: 1.28571429em;
+}
+.pageHeader>.verticalDivider {
+  border-left: 2px solid #e4e4e4;
+  height: 30px;
+  position: absolute;
+  top: 15px;
+  left: 27%;
+}
+.pageHeader{
+  margin: 10px 5% 0px 5%;
+  display: flex;
+  position: relative;
+  height: 75px;
+}
+.pageHeader>.logo{
+  flex-grow: 1;
+}
+.pageHeader>.logo>img{
+  flex-grow: 1;
+  width: 250px;
+  height: 50px;
+}
+.pageHeader>.phoneNumber{
+  flex-grow: 3;
+}
+.pageHeader>.phoneNumber>img{
+  float: left;
+  margin: 5px;
+}
+.pageHeader>.menu{
+  border:solid 1px #e4e4e4;
+  flex-grow: 1;
+  position: relative;
+  text-align: center;
+}
+
+.pageHeader>.menu>p{
+  margin: 0;
+}
+@media only screen and (max-width: 768px){
+  .pageHeader{
+    height: 50px;
+  }
+  .pageHeader>.logo>img{
+    flex-grow: 1;
+    width: 75px;
+    height: 25px;
+  }
+  .pageHeader>.verticalDivider {
+    height: 30px;
+    position: absolute;
+    top: 5px;
+    left: 25%;
+  }
+  .pageHeader>.phoneNumber>img{
+    float: left;
+    height: 30px;
+    width: 30px;
+  }
+  .pageHeader>.phoneNumber>p{
+    font-size: 0.8em;
+  }
+
+  .pageHeader>.menu>.user{
+    height: 25px;
+    width: 25px;
+  }
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

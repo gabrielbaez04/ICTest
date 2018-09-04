@@ -1,0 +1,417 @@
+[
+    {
+        "id": "5b79a2d044791c001a61224a",
+        "make": "CITROËN",
+        "model": "C3",
+        "year": 2010,
+        "version": "1.4 I XTR 8V FLEX 4P MANUAL",
+        "km": 162607,
+        "remainingTime": 52692,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1305445b79a2d044791c001a61224a313739693525860090.jpg",
+        "bids": [
+            {
+                "amount": 4250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:04.605Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 4500,
+                "dealership": "Instacarro",
+                "createdAt": 1535998247649,
+                "channel": "Web"
+            },
+            {
+                "amount": 4750,
+                "dealership": "Instacarro",
+                "createdAt": 1535998256383,
+                "channel": "Web"
+            },
+            {
+                "amount": 5000,
+                "dealership": "Instacarro",
+                "createdAt": 1535998289442,
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7a0819aefec4001a8c9e4a",
+        "make": "HYUNDAI",
+        "model": "VERA CRUZ",
+        "year": 2010,
+        "version": "3.8 GLS 4WD 4X4 V6 24V GASOLINA 4P AUTOMATICO",
+        "km": 122980,
+        "remainingTime": 0,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1043255b7a0819aefec4001a8c9e4a1844773866.jpg",
+        "bids": [
+            {
+                "amount": 22145,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:37:09.464Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 22395,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:44:13.165Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 22645,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:44:34.438Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 22895,
+                "dealership": "Instacarro",
+                "createdAt": 1535998352056,
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7aba1744791c001a6122c6",
+        "make": "FIAT",
+        "model": "STRADA",
+        "year": 2015,
+        "version": "1.8 MPI ADVENTURE CD 16V FLEX 3P AUTOMATIZADO",
+        "km": 31567,
+        "remainingTime": 0,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1355155b7aba1744791c001a6122c64423657144587756499.jpg",
+        "bids": [
+            {
+                "amount": 10750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:28:20.527Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 40000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:32:48.322Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 42000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:34:24.335Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7bfd60aefec4001a8ca024",
+        "make": "HONDA",
+        "model": "CIVIC",
+        "year": 2008,
+        "version": "1.8 LXS 16V FLEX 4P AUTOMATICO",
+        "km": 168902,
+        "remainingTime": 0,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1310365b7bfd60aefec4001a8ca0242100825649.jpg",
+        "bids": [
+            {
+                "amount": 7500,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:28:41.533Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 7750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:43:55.998Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7c4d03aefec4001a8ca0f7",
+        "make": "VOLKSWAGEN",
+        "model": "CROSSFOX",
+        "year": 2011,
+        "version": "1.6 MI FLEX 8V 4P MANUAL",
+        "km": 81786,
+        "remainingTime": 413115,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1459275b7c4d03aefec4001a8ca0f7642649693.jpg",
+        "bids": [
+            {
+                "amount": 6750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:14.589Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 7000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:41:10.819Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 7250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:41:34.879Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 7500,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:42:47.245Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7c7943aefec4001a8ca184",
+        "make": "RENAULT",
+        "model": "SANDERO",
+        "year": 2009,
+        "version": "1.0 EXPRESSION 16V FLEX 4P MANUAL",
+        "km": 68676,
+        "remainingTime": 436309,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1543455b7c7943aefec4001a8ca1841412984798.jpg",
+        "bids": [
+            {
+                "amount": 4000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:17.856Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 4250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:44:31.102Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7d6651431dd6001aed2022",
+        "make": "CITROËN",
+        "model": "C3",
+        "year": 2015,
+        "version": "1.5 TENDANCE 8V FLEX 4P MANUAL",
+        "km": 21713,
+        "remainingTime": 447462,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1526445b7d6651431dd6001aed2022-1167198429.jpg",
+        "bids": [
+            {
+                "amount": 7750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:21.710Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 23000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:41:01.871Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7e9dc2431dd6001aed2130",
+        "make": "CHEVROLET",
+        "model": "PRISMA",
+        "year": 2014,
+        "version": "1.4 MPFI LT 8V FLEX 4P MANUAL",
+        "km": 40598,
+        "remainingTime": 457666,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1522445b7e9dc2431dd6001aed2130663682537762062826.jpg",
+        "bids": [
+            {
+                "amount": 8000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:25.495Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 8250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:39:52.176Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7ee35ace8dea001ac40ea7",
+        "make": "CHEVROLET",
+        "model": "ASTRA",
+        "year": 2007,
+        "version": "2.0 MPFI ADVANTAGE 8V FLEX 4P MANUAL",
+        "km": 88776,
+        "remainingTime": 74487,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1415215b7ee35ace8dea001ac40ea7243281839.jpg",
+        "bids": [
+            {
+                "amount": 4000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:30:23.873Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 4250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:31:01.375Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 10750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:31:42.146Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 11000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:34:55.781Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 11250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:36:09.018Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 11500,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:37:54.277Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 11750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:40:11.476Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b7ffdb1ce8dea001ac40fbb",
+        "make": "TOYOTA",
+        "model": "FIELDER",
+        "year": 2008,
+        "version": "1.8 XEI 16V FLEX 4P AUTOMATICO",
+        "km": 99255,
+        "remainingTime": 467692,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1630275b7ffdb1ce8dea001ac40fbb-1006019815.jpg",
+        "bids": [
+            {
+                "amount": 6000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:35:17.351Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 6250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:38:19.773Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 15000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:39:16.591Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b81ca0ace8dea001ac4125c",
+        "make": "CHEVROLET",
+        "model": "MERIVA",
+        "year": 2010,
+        "version": "1.8 MPFI PREMIUM 8V FLEX 4P AUTOMATIZADO",
+        "km": 97254,
+        "remainingTime": 953441,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1125215b81ca0ace8dea001ac4125c49046047.jpg",
+        "bids": [
+            {
+                "amount": 250,
+                "dealership": "Instacarro",
+                "createdAt": 1535999550969,
+                "channel": "Web"
+            },
+            {
+                "amount": 500,
+                "dealership": "Instacarro",
+                "createdAt": 1535999559999,
+                "channel": "Web"
+            },
+            {
+                "amount": 750,
+                "dealership": "Instacarro",
+                "createdAt": 1535999560825,
+                "channel": "Web"
+            },
+            {
+                "amount": 1000,
+                "dealership": "Instacarro",
+                "createdAt": 1536000015553,
+                "channel": "Web"
+            },
+            {
+                "amount": 1250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-03T18:51:28.790Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b83f2b0ce8dea001ac412ed",
+        "make": "HYUNDAI",
+        "model": "TUCSON",
+        "year": 2015,
+        "version": "2.0 MPFI GLS 16V 143CV 2WD FLEX 4P AUTOMATICO",
+        "km": 46460,
+        "remainingTime": 718437,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1117185b83f2b0ce8dea001ac412ed-1048370064.jpg",
+        "bids": [
+            {
+                "amount": 40000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:40:38.478Z",
+                "channel": "Mobile"
+            },
+            {
+                "amount": 40250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:43:11.925Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    },
+    {
+        "id": "5b83f48a431dd6001aed25f1",
+        "make": "FORD",
+        "model": "ECOSPORT",
+        "year": 2006,
+        "version": "2.0 XLT 16V GASOLINA 4P MANUAL",
+        "km": 141590,
+        "remainingTime": 0,
+        "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1108595b83f48a431dd6001aed25f11215791050.jpg",
+        "bids": [
+            {
+                "amount": 500,
+                "dealership": "Instacarro",
+                "createdAt": "2018-08-27T14:33:13.821Z",
+                "channel": "Web"
+            }
+        ],
+        "runningSince": null
+    }
+]
