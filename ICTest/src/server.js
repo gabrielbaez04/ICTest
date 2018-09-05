@@ -10,7 +10,6 @@ const DATA_FILE = path.join(__dirname, 'auctions.json');
 
 app.set('port', (process.env.PORT || 3001));
 
-app.use('/', express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -24,7 +23,11 @@ app.use((req, res, next) => {
 app.get('/api/auctions', (req, res) => {
   fs.readFile(DATA_FILE, (err, data) => {
     res.setHeader('Cache-Control', 'no-cache');
-    res.json(JSON.parse(data).sort((prev, curr)=>{return prev.remainingTime - curr.remainingTime}));
+    try{
+      res.json(JSON.parse(data).sort((prev, curr)=>{return prev.remainingTime - curr.remainingTime}));
+    }catch(e){
+      res.send();
+    }
   });
 });
 
@@ -78,8 +81,10 @@ app.put('/api/auctions/bid', (req, res) => {
     });
   });
 
+app.get("/*", function (req, res) {
+  res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
+});
 
-app.use(express.static('public'))
 app.listen(app.get('port'), () => {
   console.log(`Find the server at: http://localhost:${app.get('port')}/`); // eslint-disable-line no-console
 });

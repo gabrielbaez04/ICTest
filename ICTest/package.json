@@ -4,13 +4,20 @@
   "private": true,
   "proxy": "http://localhost:3001/",
   "devDependencies": {
-    "react-scripts": "1.1.5",
-    "concurrently": "3.1.0"
+    "concurrently": "3.1.0",
+    "eslint": "^5.5.0",
+    "eslint-plugin-react": "^7.11.1",
+    "react-scripts": "1.1.5"
   },
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   },
+    "plugins": [
+      "react"
+    ],
+    "extends": ["eslint:all", "plugin:react/all"]
+  ,
   "scripts": {
     "start": "concurrently \"react-scripts start\" \"react-scripts ./src/server start\"",
     "build": "react-scripts build",

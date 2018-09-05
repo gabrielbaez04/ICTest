@@ -25,7 +25,7 @@
         "year": 2010,
         "version": "3.8 GLS 4WD 4X4 V6 24V GASOLINA 4P AUTOMATICO",
         "km": 122980,
-        "remainingTime": 41305678,
+        "remainingTime": 41250455,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1043255b7a0819aefec4001a8c9e4a1844773866.jpg",
         "bids": [
             {
@@ -47,7 +47,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7aba1744791c001a6122c6",
@@ -56,7 +56,7 @@
         "year": 2015,
         "version": "1.8 MPI ADVENTURE CD 16V FLEX 3P AUTOMATIZADO",
         "km": 31567,
-        "remainingTime": 45202277,
+        "remainingTime": 45147054,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1355155b7aba1744791c001a6122c64423657144587756499.jpg",
         "bids": [
             {
@@ -78,7 +78,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7bfd60aefec4001a8ca024",
@@ -87,7 +87,7 @@
         "year": 2008,
         "version": "1.8 LXS 16V FLEX 4P AUTOMATICO",
         "km": 168902,
-        "remainingTime": 271556,
+        "remainingTime": 216333,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1310365b7bfd60aefec4001a8ca0242100825649.jpg",
         "bids": [
             {
@@ -101,9 +101,15 @@
                 "dealership": "Instacarro",
                 "createdAt": "2018-08-27T14:43:55.998Z",
                 "channel": "Web"
+            },
+            {
+                "amount": 8000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-04T22:41:08.963Z",
+                "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7c4d03aefec4001a8ca0f7",
@@ -112,7 +118,7 @@
         "year": 2011,
         "version": "1.6 MI FLEX 8V 4P MANUAL",
         "km": 81786,
-        "remainingTime": 114936379,
+        "remainingTime": 114881156,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1459275b7c4d03aefec4001a8ca0f7642649693.jpg",
         "bids": [
             {
@@ -140,7 +146,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7c7943aefec4001a8ca184",
@@ -149,7 +155,7 @@
         "year": 2009,
         "version": "1.0 EXPRESSION 16V FLEX 4P MANUAL",
         "km": 68676,
-        "remainingTime": 172782695,
+        "remainingTime": 172727472,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1543455b7c7943aefec4001a8ca1841412984798.jpg",
         "bids": [
             {
@@ -165,7 +171,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7d6651431dd6001aed2022",
@@ -174,7 +180,7 @@
         "year": 2015,
         "version": "1.5 TENDANCE 8V FLEX 4P MANUAL",
         "km": 21713,
-        "remainingTime": 982961,
+        "remainingTime": 927738,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1526445b7d6651431dd6001aed2022-1167198429.jpg",
         "bids": [
             {
@@ -190,7 +196,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7e9dc2431dd6001aed2130",
@@ -199,7 +205,7 @@
         "year": 2014,
         "version": "1.4 MPFI LT 8V FLEX 4P MANUAL",
         "km": 40598,
-        "remainingTime": 993165,
+        "remainingTime": 937942,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1522445b7e9dc2431dd6001aed2130663682537762062826.jpg",
         "bids": [
             {
@@ -215,7 +221,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7ee35ace8dea001ac40ea7",
@@ -224,7 +230,7 @@
         "year": 2007,
         "version": "2.0 MPFI ADVANTAGE 8V FLEX 4P MANUAL",
         "km": 88776,
-        "remainingTime": 609986,
+        "remainingTime": 554763,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1415215b7ee35ace8dea001ac40ea7243281839.jpg",
         "bids": [
             {
@@ -270,7 +276,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b7ffdb1ce8dea001ac40fbb",
@@ -279,7 +285,7 @@
         "year": 2008,
         "version": "1.8 XEI 16V FLEX 4P AUTOMATICO",
         "km": 99255,
-        "remainingTime": 1003191,
+        "remainingTime": 947968,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180825_1630275b7ffdb1ce8dea001ac40fbb-1006019815.jpg",
         "bids": [
             {
@@ -301,7 +307,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b81ca0ace8dea001ac4125c",
@@ -310,10 +316,10 @@
         "year": 2010,
         "version": "1.8 MPFI PREMIUM 8V FLEX 4P AUTOMATIZADO",
         "km": 97254,
-        "remainingTime": 1488940,
+        "remainingTime": 1433717,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1125215b81ca0ace8dea001ac4125c49046047.jpg",
         "bids": [],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b83f2b0ce8dea001ac412ed",
@@ -322,7 +328,7 @@
         "year": 2015,
         "version": "2.0 MPFI GLS 16V 143CV 2WD FLEX 4P AUTOMATICO",
         "km": 46460,
-        "remainingTime": 1253936,
+        "remainingTime": 1198713,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1117185b83f2b0ce8dea001ac412ed-1048370064.jpg",
         "bids": [
             {
@@ -338,7 +344,7 @@
                 "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     },
     {
         "id": "5b83f48a431dd6001aed25f1",
@@ -347,7 +353,7 @@
         "year": 2006,
         "version": "2.0 XLT 16V GASOLINA 4P MANUAL",
         "km": 141590,
-        "remainingTime": 255174,
+        "remainingTime": 199951,
         "imageUrl": "https://uploads.instacarro.com/JPEG_20180827_1108595b83f48a431dd6001aed25f11215791050.jpg",
         "bids": [
             {
@@ -379,8 +385,32 @@
                 "dealership": "Instacarro",
                 "createdAt": "2018-09-04T17:38:39.011Z",
                 "channel": "Web"
+            },
+            {
+                "amount": 1750,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-04T18:33:23.099Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 2000,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-04T18:33:24.612Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 2250,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-04T22:41:14.682Z",
+                "channel": "Web"
+            },
+            {
+                "amount": 2500,
+                "dealership": "Instacarro",
+                "createdAt": "2018-09-04T22:41:18.425Z",
+                "channel": "Web"
             }
         ],
-        "runningSince": 1536082779624
+        "runningSince": 1536110514126
     }
 ]
