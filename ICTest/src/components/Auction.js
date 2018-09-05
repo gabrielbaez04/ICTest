@@ -20,7 +20,7 @@ class Auction extends React.Component {
       }
 
     render() {
-        const elapsedString = window.helpers.renderElapsedString(this.props.auction.runningSince,this.props.auction.remainingTime);
+        const elapsedString = window.helpers.renderElapsedString(this.props.auction.runningSince,this.state.remainingTime);
         return (
             <div>
                 <div className="card">
@@ -53,7 +53,7 @@ class Auction extends React.Component {
                             </div>
                             <div className="verticalDivider"></div>
                             <div className="splitContainerData">
-                                <p className="kilometers">{this.props.auction.km}</p>
+                                <p className="kilometers">{this.props.auction.km} KM</p>
                             </div>
                         </div>
                         <div className="horizontalDivider"></div>
