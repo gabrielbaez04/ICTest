@@ -16,3 +16,7 @@ In order to run the project, do the following steps:
 - concurrently: to boot multiple servers.
 - bodyParser : A Node.js body parsing middlewarefetch.
 - fetch: allows you to make network requests similar.
+
+
+
+You can check out this project running on : [InstaCarro Auction Module](https://icauction-1d7f7.firebaseapp.com/)
