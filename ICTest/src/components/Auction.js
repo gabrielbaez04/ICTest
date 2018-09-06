@@ -12,7 +12,7 @@ class Auction extends React.Component {
         this.setState({bidOffer:this.state.bidOffer + 250});
     }
     componentDidMount() {
-        this.forceUpdateInterval = setInterval(() => {this.forceUpdate(); this.setState({remainingTime: this.state.remainingTime-1})}, 1000);
+        this.forceUpdateInterval = setInterval(() => {this.setState({remainingTime: this.state.remainingTime-1000}); this.forceUpdate();}, 1000);
       }
     
       componentWillUnmount() {
@@ -20,7 +20,7 @@ class Auction extends React.Component {
       }
 
     render() {
-        const elapsedString = window.helpers.renderElapsedString(this.props.auction.runningSince,this.state.remainingTime);
+        const elapsedString = window.helpers.renderElapsedString(this.state.remainingTime);
         return (
             <div>
                 <div className="card">
@@ -39,7 +39,7 @@ class Auction extends React.Component {
                             <div className="verticalDivider"></div>
                             <div className="splitContainerData">
                                 <p className="bidHeader">ULTIMA OFERTA</p>
-                                <p className="bidOfferInfo bidInfo">R$ {this.state.bidOffer}</p>
+                                <p className="bidOfferInfo bidInfo">R$ {window.helpers.formatNumber(this.state.bidOffer)}</p>
                             </div>
                         </div>
                         <div className="horizontalDivider"></div>
@@ -53,7 +53,7 @@ class Auction extends React.Component {
                             </div>
                             <div className="verticalDivider"></div>
                             <div className="splitContainerData">
-                                <p className="kilometers">{this.props.auction.km} KM</p>
+                                <p className="kilometers">{window.helpers.formatNumber(this.props.auction.km)} KM</p>
                             </div>
                         </div>
                         <div className="horizontalDivider"></div>
