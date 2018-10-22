@@ -1,6 +1,6 @@
 # ICTest
 ## InstaCarro Auction Page
-I was asked to develop this auction module using ReactJS. 
+As part of an interview test was asked to develop this auction module using ReactJS. 
 I used create-react-app to quickstart, also ,it's just vanilla css.
 
 In order to run the project, do the following steps:
